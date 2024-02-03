@@ -5,7 +5,7 @@ public class Application {
      
         while(value < 10)
         {
-            System.out.println("Hello " + value);
+            System.out.println("Hi my name is Ayush" + value);
              
             value = value + 1;
         }
